@@ -1,0 +1,371 @@
+Date,Time,Tutor,QUAD or CS?,Student Name,Email (prize),Class,Programming,Topic,Helped? (Y/N)
+10/19/2022,3:40,Mariah,QUAD,Richelle Suzuki,rtsuzuki2@willamette.edu,Psyc252,,Research Design Paper,Y
+10/19/2022,4:00,Andrew,QUAD,Destiny Acevedo,dcacevedo@willamette.edu,,,0,Y
+10/19/2022,4:30,Andrew,QUAD,Mika Boston,mrboston@willamette.edu,Intro to Python,Python,0,Y
+10/20/2022,3:00,Mariah,QUAD,Bryant Lee,btlee@willamette.edu,Cog Neuro,,Article Research,Y
+10/20/2022,3:19,Andrew,QUAD,Aiden Tubbaji,astubbaji@willamette.edu,Preparing for CS151,Python,Wanting to prepare for taking CS151 in Spring,Y
+10/20/2022,3:52,Andrew,CS,Mamadou Dem,mdem@willamette.edu,CS151,Python,Help on class project,Y
+10/20/2022,4:07,Mariah,QUAD,Meira Bonnici,mmbonnici@willamette.edu,Psyc253,,Exam prep,Y
+10/20/2022,5:04,Mariah,QUAD,Ernie Samore,easamora@willamette.edu,Psyc253,,Exam prep,
+10/20/2022,7:30,Seth,QUAD,0,0,0,0,0,0
+10/20/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+10/20/2022,9:00,Thomas/Kendall,QUAD,0,0,0,0,0,0
+10/21/2022,3:30,Nathan ,QUAD,0,0,0,0,0,0
+10/21/2022,3:30,Mitchell,QUAD,0,0,0,0,0,0
+10/23/2022,3:00,Elise,QUAD,0,0,0,0,0,0
+10/23/2022,4:30,Elise,QUAD,0,0,0,0,0,0
+10/23/2022,6:00,Nathan ,QUAD,Quinn Andersone,qsanderson@willamette.edu,CS 151,Python,Milestone #5 Project where there was a ball bouncing and blocks,N
+10/24/2022,6:00,Kendall,QUAD,Katherine Pierce,kmpierce@willamette.edu,DATA 151,R,Homework #5 ,Y
+10/24/2022,6:00,Hayden ,QUAD,Sam,,DATA 151,R,Milestone,Y
+10/24/2022,6:45,Kendall,QUAD,Bridget Bodor,bsbodor@willamette.edu,DATA 151,R,Homework #5 ,Y
+10/24/2022,7:20,Hayden/Mitchell,QUAD,N/A,N/A,DATA 151,R,,Y
+10/24/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+10/24/2022,8:15,Mitchell,QUAD,N/A,N/A,DATA 151,R,Final project,Y
+10/24/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+10/24/2022,7:30,Elise,QUAD,0,0,0,0,0,0
+10/24/2022,7:30,Mitchell,QUAD,Jace Higa,jkhiga@willamette.edu,DATA 151,R,Final project,Y
+10/24/2022,7:30,Mitchell,QUAD,Kaisei Mochizuki,kmochizuki@willamette.edu,DATA 151,R,Final project,Y
+10/25/2022,6:00,Seth,QUAD,0,0,0,0,0,0
+10/25/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+10/25/2022,8:30,Thomas,QUAD,Malachi Washington,mbwashington@willamette.edu,DATA 151,R,Milestone #4,Y
+10/25/2022,8:30,Thomas,QUAD,Heavenly Tuputala,hstuputala@willamette.edu,DATA 151,R,Milestone #4,Y
+10/25/2022,8:30,Thomas,QUAD,Carl Lawson,calawson@willamette.edu,DATA 151,R,Homework #5,Y
+10/25/2022,8:30,Thomas,QUAD,Adam Birt,ajbirt@willamette.edu,DATA 151,R,Homework #5,Y
+10/25/2022,8:30,Thomas,QUAD,Hriday Raj,hhraj@willamette.edu,CS151,Python,Help on problem set,Y
+10/26/2022,9:30,Nathan ,QUAD,Kiera Atkinson,keatkinson@willamette.edu,PHEAL 214,0,Module 4,Y
+10/26/2022,3:07,Mariah,QUAD,Darius Phillips,,,R,Homework help,N
+10/26/2022,4:00,Mariah,QUAD,Faith Collar,fcollar@willamette.edu,PSYC252,,Exam prep,Y
+10/26/2022,4:00,Mariah,QUAD,Kenna Davis,kadavis@willamette.edu,PSYC252,,Exam prep,Y
+10/26/2022,4:40,Mariah,QUAD,Safia Goldsmith,segoldsmith@willamette.edu,PSYC252,,Exam prep,Y
+10/26/2022,4:00,Andrew,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS151,Python,,Y
+10/26/2022,4:30,Andrew,CS,N/A,N/A,CS151,Python,,Y
+10/26/2022,6:00,Kendall,QUAD,0,0,0,0,0,0
+10/26/2022,7:30,Elise,QUAD,0,0,0,0,0,0
+10/27/2022,3:15,Mariah,QUAD,Anika Dragan,abdragan@willamette.edu,PSYC252,,Exam prep,Y
+10/27/2022,3:30,Andrew,CS,Max Albano,,CS151,Python,,Y
+10/27/2022,4:00,Mariah,QUAD,Safia Goldsmith,segoldsmith@willamette.edu,PSYC252,,Exam prep,Y
+10/27/2022,4:09,Mariah,QUAD,Faith Collar,fcollar@willamette.edu,PSYC252,,Exam prep,Y
+10/27/2022,4:09,Mariah,QUAD,Ines Marco,icmarco@willamette.edu,PSYC252,,Exam prep,Y
+10/27/2022,5:53,Kellen,QUAD,Saul Ifshin,stifshin@willamette.edu,Foundations of Advanced Math,,Advanced Foundations of Math,Y
+10/27/2022,5:00,Kellen,QUAD,Emi Halberg,ekhalberg@willamette.edu,Data 151,R,,N
+10/27/2022,6:26,Kellen,QUAD,Jayden Li,jli2@willamette.edu,CS 152,Python,Help on Lab Week 8,Y
+10/27/2022,8:34,Thomas,QUAD,Hriday Raj,hhraj@willamette.edu,CS 151,Python,Problem Set 5,Y
+10/28/2022,4:30,Mitchell,QUAD,0,0,0,0,0,0
+10/29/2022,5:30,Nathan ,QUAD,Jennifer Hibbs,jhibbs@willamette.edu,DATA 501,R,Homework Set Up ,Y
+10/30/2022,4:00,Elise,QUAD,Destiny Acevedo,dcacevedo@willamette.edu,CS 151,Python,Help with Milestone 1 ,Y
+10/30/2022,6:00,Elise,QUAD,Destiny Acevedo,dcacevedo@willamette.edu,CS 152,Python,Help with Milestone 2,Y
+10/30/2022,3:00,Nathan ,QUAD,Daniel Smith,dlsmith@willamette.edu,DATA 501,R,checking hw for proper coding and data simple data vis,Y
+10/31/2022,6:00,Nathan ,QUAD ,Jennifer Hibbs,jhibbs@willamette.edu,DATA 501,R,checking hw for proper coding and data simple data vis,Y
+10/31/2022,6:00,Kendall,QUAD,Amaya Supancich-McCord,asupancichmccord@willamette.edu,DATA 151,R,Homework #6,Y
+10/31/2022,6:00,Hayden,QUAD,Emi Halberg,ekhalberg@willamette.edu,DATA 151,R,Midrterm 2 Study Guide,Y
+10/31/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+10/31/2022,7:30,Mitchell,QUAD,0,0,0,0,0,0
+10/31/2022,7:30,Nathan ,QUAD,0,0,0,0,0,0
+11/1/2022,6:00,Seth,QUAD,0,0,0,0,0,0
+11/1/2022,9:00,Thomas,QUAD,Elektra Williams,ezwilliams@willamette.edu,DATA 151,R,Exam prep,Y
+11/1/2022,9:00,Thomas,QUAD,Malachi Washington,mbwashington@willamette.edu,DATA 151,R,Final project,Y
+11/1/2022,9:00,Thomas,QUAD,Heavenly Tuputala,hstuputala@willamette.edu,DATA 151,R,Final project,Y
+11/1/2022,9:00,Thomas,QUAD,Hriday Raj,hhraj@willamette.edu,CS 151,Python,Help with Milestone 1,Y
+11/2/2022,3:34,Mariah,QUAD,Destiny Acevedo,dcacevedo@willamette.edu,CS 151,Python,0,N
+11/2/2022,3:34,Mariah,QUAD,Sam Krug,sjkrug@willamette.edu,CS 151,Python,0,N
+11/2/2022,4:00,Andrew,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS 151,Python,Project,Y
+11/2/2022,4:00,Andrew,CS,Sam Krug,sjkrug@willamette.edu,CS 151,Python,Project,Y
+11/2/2022,4:03,Mariah,QUAD,Davis Bowler,ddbowler@willamette.edu,DATA 151,R,Midterm ,N
+11/2/2022,4:50,Andrew,CS,Tahj Orona,ttorona@willamette.edu,CS 151,Python,Project,Y
+11/2/2022,6:00,Paulina,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS 151,Python,Project,Y
+11/2/2022,6:00,Seth,QUAD,Saul Ifshin,stifshin@willamette.edu,MATH 251W,,Homework,Y
+11/2/2022,6:00,Chloe,QUAD,Lexi Martin ,lgmartin@willamette.edu,EXHS 360,,Project,Y
+11/2/2022,6:00,Mitchell,QUAD,Emi Halberg,ekhalberg@willamette.edu,DATA 151,R,Midterm ,Y
+11/2/2022,7:30,Mitchell,QUAD,Davis Bowler,ddbowler@willamette.edu,DATA 151,R,Midterm ,Y
+11/2/2022,8:45,Mitchell,QUAD,Jace Higa,jkhiga@willamette.edu,DATA 151,R,Midterm,Y
+11/2/2022,8:11,Elise,QUAD,Erin Grossman,eegrossman@willamette.edu,MATH138,,Midterm/Worksheet,Y
+11/2/2022,7:30,Chloe,QUAD,0,0,0,0,0,0
+11/3/2022,3:05,Mariah,QUAD,Jennifer Hibbs,jhibbs@willamette.edu,501,R,Statistical Concepts,Y
+11/3/2022,3:30,Andrew,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS151,Python,Project,Y
+11/3/2022,6:00,Mariah,QUAD,0,0,0,0,0,0
+11/3/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/3/2022,7:30,Thomas/Kendall,QUAD,Alex Goddard,algoddard@willamette.edu,DATA 151,R,Homework #6 and Project,Y
+11/3/2022,7:55,Kendall,QUAD,Jakob Garcia,jrgarcia@willamette.edu,DATA 151,R,Homework #6 and Project,Y
+11/3/2022,8:30,Thomas,QUAD,Katherine Pierce,kmpierce@willamette.edu0,DATA 151,R,Homework #6,Y
+11/3/2022,8:45,Thomas,QUAD,Ruby Thompson,rmthompson@willamette.edu,DATA 151,R,Project Help,Y
+11/4/2022,3:00,Olivia,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS 151,Python,Milestone Help,Y
+11/4/2022,3:00,Mitchell,QUAD,0,0,0,0,0,0
+11/4/2022,3:00,Nathan ,QUAD,Jennifier Hibbs,jhibbs@willamette.edu,501,R,Homework #9 Set Up ,Y
+11/6/2022,3:00,Elise,QUAD,0,0,0,0,0,0
+11/6/2022,4:30,Elise,QUAD,0,0,0,0,0,0
+11/6/2022,4:30,Nathan ,QUAD,Jennifier Hibbs,jhibbs@willamette.edu,501,R,Homework #9 Set Up ,Y
+11/7/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/7/2022,6:00,Kendall,QUAD,0,0,0,0,0,
+11/7/2022,6:00,Hayden,QUAD,0,0,0,0,0,
+11/7/2022,6:00,Chloe,QUAD,0,0,0,0,0,
+11/7/2022,7:30,Chloe,QUAD,0,0,0,0,0,
+11/7/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+11/7/2022,7:30,Mitchell,QUAD,Hriday Raj,hhraj@willamette.edu,MATH 251W,,Homework help,Y
+11/7/2022,7:30,Elise,QUAD,0,0,0,0,0,0
+11/7/2022,7:30,Chris,CS,Hriday Raj,hhraj@willamette.edu,CS 151,Python,Project Help,Y
+11/8/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/8/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+11/8/2022,9:00,Thomas,QUAD,0,0,0,0,0,0
+11/9/2022,3:03,Mariah,QUAD,Jillian Skelding,jsskelding@willamette.edu,DS151,R,Troubleshooting code,N
+11/9/2022,3:30,Mariah,QUAD,Zoe Place,zhplace@willamette.edu,Social Psyc,,Understanding Statistics,Y
+11/9/2022,4:00,Andrew,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS151,Python,Problem help,Y
+11/9/2022,4:00,Andrew,CS,Sam Krug,sjkrug@willamette.edu,CS 151,Python,Problem help,Y
+11/9/2022,6:00,Mariah,QUAD,0,0,0,0,0,0
+11/9/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+11/9/2022,6:00,Mitchell,QUAD,Hriday Raj,hhraj@willamette.edu,MATH 251W,,Homework help,Y
+11/9/2022,7:30,Chloe,QUAD,0,0,0,0,0,0
+11/9/2022,7:30,Mitchell,QUAD,Hriday Raj,hhraj@willamette.edu,CS 151,Python,Project Help,Y
+11/9/2022,7:30,Elise,QUAD,N/A,N/A,MATH138,R,Troubleshooting error,N
+11/10/2022,3:38,Mariah,QUAD,Megan Rogers,mrogers@willamette.edu,Psyc 253,0,Z Tests,Y
+11/10/2022,3:40,Mariah,QUAD,Jennifer Hibbs,jhibbs@willamette.edu,DS 501,R,Stats concepts,Y
+11/10/2022,4:30,Elise,QUAD,Jennifer Hibbs,jhibbs@willamette.edu,DS 501,R,Stats concepts,Y
+11/10/2022,5:00,Elise,QUAD,Ashley Knight,aknight@willamette.edu,GSM 5103,,Stats concepts,N
+11/10/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/10/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+11/10/2022,9:00,Thomas,QUAD,Ashley Knight,aknight@willamette.edu,GSM 5103,0,Stats concepts,Y
+11/10/2022,9:00,Thomas,QUAD,Jennifer Hibbs,jhibbs@willamette.edu,DATA 501,R,ggplot2,Y
+11/11/2022,3:00,Nathan,QUAD,Ashley Knight,aknight@willamette.edu,GSM 5103,0,Stats concepts,Y
+11/11/2022,3:00,Olivia,CS,Destiny Acevedo,dcacevedo@willamette.edu,CS 151,Python,Homework Help,Y
+11/11/2022,3:00,Olivia,CS,Sam Krug,sjkrug@willamette.edu,CS 151,Python,Homework Help,Y
+11/11/2022,3:00,Mitchell/Nathan,QUAD,Tyler Bontrager,tjbontrager@willamette.edu,DS 351,SQL,Homework Help,Y
+11/11/2022,3:00,Mitchell,QUAD,Jennifer Hibbs,jhibbs@willamette.edu,DS 501,R,ggplot2,Y
+11/13/2022,3:00,Elise ,QUAD,0,0,0,0,0,0
+11/13/2022,3:00,Hayden,QUAD,Emi Halberg,ekhalberg@willamette.edu,DS 151,R,Midterm 2 corrections,Y
+11/13/2022,4:30,Elise,QUAD,0,0,0,0,0,0
+11/14/2022,6:00,Hayden,QUAD,Aleks Kozyk,aokozyk@willamette.edu,DS 151,R,Midterm 2 corrections,0
+11/14/2022,6:00,Chloe,QUAD,N/A,N/A,EXHS 360,Excel,Homework help,Y
+11/14/2022,7:30,Kendall,QUAD,0,0,0,0,0,0
+11/14/2022,7:30,Chloe,QUAD,0,0,0,0,0,0
+11/14/2022,8:00,Hayden/Elise,QUAD,Vanessa Suarez,vsuarez@willamette.edu,DS 151,R,Midterm 2 corrections,Y
+11/15/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/15/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+11/15/2022,9:00,Thomas,QUAD,Elektra Williams,ezwilliams@willamette.edu,DATA 151,R,Midterm 2 corrections,Y
+11/15/2022,3:15,Mitchell,QUAD,N/A,0,DATA 151,R,HW Help,Y
+11/16/2022,5:50,Mariah,QUAD,Tyler ?,0,MATH 138,0,Help with Stats,Y
+11/16/2022,6:00,Mitchell,QUAD,N/A,0,MATH 138,0,Help with Stats,Y
+11/16/2022,7:30,Mitchell,QUAD,0,0,0,0,0,0
+11/16/2022,7:30,Elise,QUAD,0,0,0,0,0,0
+11/17/2022,4:30,Mariah,QUAD,0,0,0,0,0,0
+11/17/2022,6:00,Mariah,QUAD,0,0,0,0,0,
+11/17/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/17/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+11/17/2022,9:00,Kendall,QUAD,0,0,0,0,0,0
+11/17/2022,9:00,Thomas,QUAD,Malachi Washington,mbwashington@willamette.edu,DATA 151,R,Final project,Y
+11/17/2022,9:00,Thomas,QUAD,Heavenly Tuputala,hstuputala@willamette.edu,DATA 151,R,Final project,Y
+11/20/2022,4:30,Elise,QUAD,0,0,0,0,0,0
+11/20/2022,6:00,Elise,QUAD,0,0,0,0,0,0
+11/21/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+11/21/2022,7:30,Chloe,QUAD ,0,0,0,0,0,0
+11/23/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+11/23/2022,7:30,Chloe,QUAD,0,0,0,0,0,0
+11/28/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+11/28/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+11/28/2022,7:30,Mitch,QUAD,0,0,0,0,0,0
+11/28/2022,7:30,Elise/Mitch,QUAD,Ella Ashford,emashford@willamette.edu,MATH 138,N/A,Textbook website and chi-squared,N
+11/29/2022,9:00,Thomas,QUAD,0,0,0,0,0,0
+11/30/2022,4:00,Mariah,QUAD,Angela Chen,0,PSYC 252,0,0,Y
+11/30/2022,4:00,Mariah,QUAD,Safia Goldsmith,0,PSYC 252,0,0,Y
+11/30/2022,4:30,Mariah,QUAD,Meira Bonnici,0,PSYC 253,0,0,Y
+11/30/2022,4:30,Mariah,QUAD,Ernie Samora,0,PSYC 253,0,0,Y
+11/30/2022,4:30,Mariah,QUAD,Corrine Christian,0,PSYC 253,0,0,Y
+11/30/2022,4:30,Andrew,CS,Sam,0,CS 151,Python,0,Y
+11/30/2022,4:30,Andrew,CS,Destiny,0,CS 151,Python,0,Y
+11/30/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+11/30/2022,7:30,Chloe,QUAD,0,0,0,0,0,0
+11/30/2022,6:00,Mitch,QUAD,0,0,0,0,0,0
+11/30/2022,7:30,Mitch,QUAD,0,0,0,0,0,0
+12/1/2022,3:25,Mariah,QUAD,Angela Chen,,PSYC 252,0,0,Y
+12/1/2022,4:00,Mariah,QUAD,Caitlin Brown,crbrown@willamette.edu,PSYC 252,0,0,Y
+12/1/2022,4:15,Mariah,QUAD,Faith Collar,0,PSYC 252,0,0,Y
+12/1/2022,4:35,Mariah,QUAD,Safia Goldsmith,0,PSYC 252,0,0,Y
+12/1/2022,4:45,Mariah,QUAD,Kenna Davis,0,PSYC 252,0,0,Y
+12/1/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+12/1/2022,8:00,Kendall,QUAD,Caitlin Brown,crbrown@willamette.edu,PSYC 252,R,Interpreting data for project,Y
+12/4/2022,3:45,Elise,QUAD,Destiny,dcacevedo@willamette.edu,CS151,Python,Project Milestone 7,Y
+12/4/2022,5:00,Elise,QUAD,N/A,N/A,CS151,Python,Project Milestone 1,Y
+12/5/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+12/5/2022,6:00,Kendall,QUAD,Erin Grossman,eegrossman@willamette.edu,MATH 138,R,Homework ,Y
+12/5/2022,6:40,Hayden,QUAD,,,,R,,Y
+12/5/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+12/5/2022,6:00,Chloe,QUAD,0,0,0,0,0,0
+12/5/2022,7:30,Chloe,QUAD,0,0,0,0,0,0
+12/5/2022,7:30,Elise,QUAD,0,0,0,0,0,0
+12/5/2022,7:30,Mitch,QUAD,0,0,0,0,0,0
+12/6/2022,6:00,Kellen,QUAD,0,0,0,0,0,0
+12/6/2022,7:30,Kellen,QUAD,0,0,0,0,0,0
+12/6/2022,9:00,Thomas,QUAD,Blake Dobson,bdobson@willamette.edu,MATH 138,R,Lab 3,Y
+12/6/2022,9:00,Thomas,QUAD,AJ Conrad,ajconrad@willamette.edu,MATH 138,R,Lab 3,Y
+12/6/2022,9:00,Thomas,QUAD,Spencer Vigil,sjvigil@willamette.edu,MATH 138,R,Lab 3,Y
+12/6/2022,9:00,Thomas,QUAD,Isabela Gaupo,ijgaupo@willamette.edu,MATH 138,R,Lab 3,Y
+12/7/2022,4:20,Mariah,QUAD,Caitlin Brown,crbrown@willamette.edu,PSYC 252,,Help with final lab report,Y
+12/7/2022,4:45,Mariah,QUAD,Meria Bonnici,mmbonnici@willamette.edu,PSYC 253,,Study for final exam,Y
+12/7/2022,4:45,Mariah,QUAD,Aneli Garcia,agarcia4@willamette.edu,PSYC 253,,Study for final exam,Y
+12/8/2022,3:00,Mariah,QUAD,Aneli Garcia,agarcia4@willamette.edu,PSYC 253,,Study for final exam,Y
+12/8/2022,3:00,Mariah,QUAD,Morgan Fleck ,mmfleck@willamette.edu,PSYC 253,,Study for final exam,Y
+12/8/2022,3:30,Mariah,QUAD,Megan Rogers,mrogers@willamette.edu,PSYC 253,,Study for final exam,Y
+12/8/2022,4:00,Mariah,QUAD,Meira Bonnici,mmbonnici@willamette.edu,PSYC 253,,Study for final exam,Y
+12/8/2022,7:30,Kendall,QUAD,Amaya Supancich-McCord,asupancichmccord@willamette.edu,DATA 151,R,Homework #7,Y
+12/8/2022,7:30,Thomas,QUAD,Theo Balwit,tjbalwit@willamette.edu,MATH 138,,Study for final exam,Y
+12/11/2022,3:00,Elise,QUAD,0,0,0,0,0,0
+12/11/2022,4:30,Elise,QUAD,0,0,0,0,0,0
+1/23/2023,11:30,Chloe,QUAD,0,0,0,0,0,0
+1/23/2023,6:00,Juni,QUAD,0,0,0,0,0,0
+1/23/2023,6:00,Chloe,QUAD,0,0,0,0,0,0
+1/23/2023,7:30,Juni,QUAD,0,0,0,0,0,0
+1/23/2023,7:30,Mariah,QUAD,0,0,0,0,0,0
+1/24/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+1/24/2023,6:00,Mitch,QUAD,0,0,0,0,0,0
+1/23/2023,7:30,Thomas,QUAD,0,0,0,0,0,0
+1/23/2023,7:30,Mitch,QUAD,0,0,0,0,0,0
+1/24/2023,11:30,Chloe,QUAD,0,0,0,0,0,0
+1/25/2023,3:00,Thomas,QUAD,0,0,0,0,0,0
+1/25/2023,6:00,Thomas,QUAD,0,0,0,0,0,0
+1/25/2023,4:30,Mariah,QUAD,0,0,0,0,0,0
+1/25/2023,6:00,Mariah,QUAD,0,0,0,0,0,0
+1/25/2023,7:00,Kendall /Indi,QUAD,Taden Bowden,0,CS 151,Python,Karel Homework,Y
+1/25/2023,7:30,Juni,QUAD,0,0,0,0,0,0
+1/26/2023,3:00,Mitch,QUAD,Destiny,dcacevedo@willamette.edu,DS151,Python,Homework Help,Y
+1/26/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+1/26/2023,4:30,Indi / Nathan,QUAD,Emilia Keller,0,CS 151,Python,Karel HW,Y
+1/26/2023,7:30,Elise,QUAD,0,0,0,0,0,0
+1/26/2023,9:00,Kendall,QUAD,0,0,0,0,0,0
+1/27/2023,3:00,Mitch,QUAD,Destiny,dcacevedo@willamette.edu,DS152,Python,Notes/Understanding check,Y
+1/29/2023,4:30,Juni,QUAD,0,0,0,0,0,0
+1/30/2023,6:00,Juni,QUAD,0,0,0,0,0,0
+1/30/2023,7:58,Juni,QUAD,Hriday,hhraj@willamette.edu,CS 152,Python,Classes/Objects,Y
+1/31/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+1/31/2023,6:00,Mitch,QUAD,Destiny,dcacevedo@willamette.edu,DS151/DS152,R,R lecture ,Y
+1/31/2023,7:30,Thomas,QUAD,0,0,0,0,0,0
+1/31/2023,7:30,Mitch,QUAD,Destiny,dcacevedo@willamette.edu,DS151/DS152,R,R lecture ,Y
+2/1/2023,3:00,Thomas,QUAD,Abigail McComas,armccomas@willamette.edu,MATH 138,R,Lab 2,Y
+2/1/2023,4:30,Thomas,QUAD,Lianna Lovett,lqlovett@willamette.edu,MATH 138,R,Lab 2,Y
+2/1/2023,4:30,Thomas,QUAD,Kiera Atkinson,keatkinson@willamette.edu,MATH 138,R,Lab 2,Y
+2/1/2023,4:30,Mariah,QUAD,0,0,0,0,0,0
+2/1/2023,6:00,Mariah,QUAD,,0,0,0,0,0
+2/1/2023,7:00,Kendall,QUAD,Garrett ,0,DATA 152,R,Homework #1,Y
+2/1/2023,7:30,Juni,QUAD,Molena & Alex,0,0,JavaScript,0,0
+2/1/2023,8:30,Kendall,QUAD,Taden Bowden,0,CS151,Python,VS Code ,
+2/1/2023,7:45,Juni,QUAD,Anika Dragan,0,CS151,Python,Karel Checkerboard,Y
+2/1/2023,7:30,Olivia/Juni,CS, Rea Bazal,0,CS151,Python,Karel Checkerboard,
+2/1/2023,6:00,Indi,QUAD,Evyn Baker,0,DS 152,R,HW 1,Y
+2/2/2023,3:00,Mitch,QUAD,Lianna ,0,,0,0,0
+2/2/2023,4:30,Indi,QUAD,Emilia Keller,0,CS 151,Python,HW 2 (Karel Checkerboard),Y
+2/2/2023,6:00,Indi,QUAD,Taden Bowden,0,CS 151,Python,HW 2 (Karel Checkerboard),Y
+2/2/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+2/2/2023,7:30,Elise/ Thomas,QUAD,Sally Wooster,0,CS 151,Python,Karel,Y
+2/2/2023,8:00,Kendall,QUAD,Sophia R.,0,CS 151,Python,Homework #2,Y
+2/2/2023,8:30,Chris,CS,Seira Ramchandani,0,CS 151,Python,Karel,Y
+2/2/2023,8:00,Kendall,QUAD,Alicia Robbins,0,CS 151,Python,Homework #2,Y
+2/2/2023,8:00,Kendall,QUAD,Sally Wooster,0,CS 151,Python,Homework #2,
+2/5/2023,4:30,Juni,QUAD,0,0,0,0,0,0
+2/6/2023,6:00,Juni,QUAD,0,0,0,0,0,0
+2/6/2023,7:30,Juni,QUAD,0,0,0,0,0,0
+2/7/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+2/7/2023,6:00,Mitch,QUAD,Taden Bowden,tsbowden@willamette.edu,MATH 379,,Probability HWK,Y
+2/7/2023,6:00,Mitch,QUAD,Daniel Braker,debraker@willamette.edu,CS 151,Python,HW 3,Y
+2/7/2023,6:00,Mitch,QUAD,Tiffany Truong,ttruong@willamette.edu,CS 151,Python,HW 3,Y
+2/7/2023,6:00,Mitch,QUAD,Josie Pipatanangkura,jlpipatanangkura@willamette.edu,CS 151,Python,HW 3,Y
+2/7/2023,7:30,Thomas/Mitch,QUAD,Tiffany Truong,ttruong@willamette.edu,CS 151,Python,HW 3,0
+2/7/2023,7:30,Mitch/Thomas,QUAD,Josie Pipatanangkura,jlpipatanangkura@willamette.edu,CS 151,Python,HW 3,
+2/8/2023,11:30,Chloe,QUAD,0,0,0,0,0,0
+2/8/2023,3:30,Thomas,QUAD,Adam Doyle,ardoyle@willamette.edu,MATH 138,R,Lab 2,Y
+2/8/2023,3:30,Thomas,QUAD,Abigail McComas,armccomas@willamette.edu,MATH 138,R,Lab 2,Y
+2/8/2023,5:41,Mariah,QUAD,Anegla Chen,0,PSYC253,,Exam prep,Y
+2/8/2023,5:41,Mariah,QUAD,Anushka Srivastav,0,PSYC253,,Exam prep,Y
+2/8/2023,6:00,Kendall,QUAD,Autumn Wertman,0,MATH 138, ,Lab ,
+2/8/2023,6:00,Chloe,QUAD,0,0,0,0,0,0
+2/8/2023,6:00,Indi,QUAD,Evyn Baker,0,DATA 152,,HW ,Y
+2/8/2023,6:00,Indi,QUAD,Taden Bowden,0,0,0,0,0
+2/8/2023,7:30,Olivia,CS,Rea Bazal,0,0,0,0,0
+2/9/2023,3:00,Mitch,QUAD,Benjamin Weber,bmweber@willamette.edu,MATH 379,,Probability Work,Y
+2/9/2023,3:00,Mitch,QUAD,Matthew Jones,mpjones@willamette.edu,MATH 379,,Probability Work,Y
+2/9/2023,3:00,Mitch,QUAD,Seth Bell,scbell@willamette.edu,MATH 379,,Probability Work,Y
+2/9/2023,3:00,Mitch,QUAD,Whitley Stepp,wcstepp@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch,QUAD,Brooke Proctor,blproctor@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch,QUAD,Sally Wooster,sawooster@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch/Miles,QUAD,Sophie Brinker,sgbrinker@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch/Miles,QUAD,Jace Higa,jkhiga@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch/Miles,QUAD,Emilia Keller,emkeller@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch/Miles,QUAD,Taden Bowden,tsbowden@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch/Miles,QUAD,Serenna Thorsen,slthorsen@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,3:00,Mitch,QUAD,Saul Ifshin,stifshin@willamette.edu,MATH 251W,,Homework help,Y
+2/9/23,4:30,Mariah,QUAD,0,0,0,0,0,0
+2/9/23,4:30,Nathan ,QUAD ,Sally Woster,swoster@willamette.edu,CS 151,Python ,HW 3,Y
+2/9/2023,4:30,Indi,QUAD,Emilia Keller,emkeller@willamette.edu,CS 151,Python ,HW 3,Y
+2/9/2023,4:30,Indi,QUAD,Sophie Brinker,sgbrinker@willamette.edu,CS 151,Python,HW 3,Y
+2/9/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+2/9/2023,7:30,Elise,QUAD,0,0,0,0,0,0
+2/9/2023,7:30,Chris,CS,Seira Ramchandani,sramchandani@willamette.edu,CS 151,Python,Problem Set 3,Y
+2/9/2023,8:08,Kendall/Chris,QUAD/CS,Sally Wooster,0,DATA 252,R,Milestone #2,Y
+2/9/2023,8:27,Kendall,QUAD,Anika Dragan,0,CS 151,Python,Problem Set 3,Y
+2/9/2023,8:27,Kendall,QUAD,Rea Bazal,0,CS 151,Python,Problem Set 3,Y
+2/9/2023,8:27,Kendall,QUAD,Carson Myier,0,CS 151,Python,Problem Set 3,
+2/9/2023,7:30,Thomas,QUAD,0,0,0,0,0,0
+2/10/2023,3:00,Mitch/Faye,QUAD,Carson Meyer,cpmeyer@willamette.edu,CS 151,Python,Problem Set 3,Y
+2/10/2023,3:00,Mitch/Faye,QUAD,Rea Bazal,rlbazal@willamette.edu,CS 151,Python,Problem Set 3,Y
+2/10/2023,3:00,Mitch/Faye,QUAD,Anika Dragan,abdragan@willamette.edu,CS 151,Python,Problem Set 3,Y
+2/10/2023,3:00,Mitch,QUAD,Sophia Rabbanian,sarabbanian@willamette.edu,CS 151,Python,Problem Set 3,Y
+2/12/2023,4:30,Juni,QUAD,0,0,0,0,0,0
+2/13/2023,11:30,Chloe,QUAD,0,0,0,0,0,0
+2/13/2023,6:00,Chloe,QUAD,0,0,0,0,0,
+2/13/2023,7:04,Juni,QUAD,Taden Bowden,0,CS 151,Python,Wordle Milestone #1,N
+2/13/2023,7:30,Mariah,QUAD,Safia Goldstein,0,PSYC253,0,Exam Prep,Y
+2/13/2023,7:30,Mariah,QUAD,Ines Marco,0,PSYC253,0,Exam Prep,Y
+2/13/2023,7:30,Mariah,QUAD,Emma Measer,0,PSYC253,0,Exam Prep,Y
+2/13/2023,7:30,Mariah,QUAD,Anushka Srivastav,0,PSYC253,0,Exam Prep,Y
+2/14/2023,6:00,Elise,QUAD,Jackson Spector,jbspector@willamette.edu,DS 151,R,Midterm Prep,Y
+2/14/2023,6:15,Mitchell,QUAD,Whitley Stepp,0,CS 151,Python,Wordle Milestone 2,Y
+2/14/2023,6:15,Mitchell,QUAD,Jace Higa,0,CS 151,Python,Wordle Milestone 2,Y
+2/14/2023,6:15,Mitchell,QUAD,Brooke Proctor,0,CS 151,Python,Wordle Milestone 3,Y
+2/14/2023,6:15,Mitchell,QUAD,Taden Bowden,0,CS 151,Python,Wordle Milestone 2,Y
+2/14/2023,6:15,Mitchell,QUAD,Serenna Thorsen,slthorsen@willamette.edu,CS 151,Python,Wordle Milestone 3,Y
+2/14/2023,6:50,Mitchell,QUAD,Emilia Keller,emkeller@willamette.edu,CS 151,Python,Wordle Milestone,0
+2/14/2023,7:10,Elise,QUAD,Serenna Thorsen,slthorsen@willamette.edu,DATA 152,R,Homework,N
+2/15/2023,11:30,Chloe,QUAD,Sophia,0,CS 151,Python,Wordle ,N
+2/15/2023,4:30,Thomas,QUAD,Jackson Spector,jbspector@willamette.edu,DATA 151,R,Midterm Prep,Y
+2/15/2023,6:00,Mariah,QUAD,Shauna Caswell,0,PHEAL399,,Concept & HW Help,Y
+2/15/2023,7:00,Kendall,QUAD,Alicia Robbins,0,CS 151,Python,Wordle,Y
+2/15/2023,7:30,Juni,QUAD,Ethan,0,CS 151,Python,Wordle Milestone 1,Y
+2/15/2023,6:00,Indi,QUAD,Evyn Baker,0,DS 152,R,HW 3,Y
+2/15/2023,7:50,Juni,QUAD,Hriday,0,CS 151,Python,Wordle Hard Mode,Y
+2/15/2023,8:00,Kendall,QUAD,Leo Jezierski,0,MATH 138,0,Quiz Prep,Y
+2/15/2023,8:00,Juni,QUAD,Rea Bazal,0,CS 151,Python,Wordle Milestone 3,Y
+2/15/2023,8:00,Juni,QUAD,Anika Dragan,0,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Ethan Davies,efdavies@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Mallory Tolliver,mrtolliver@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Connor Murphy,cjmurphy@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Sophia Rabbanian,sarabbanian@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Carson Meyer,cpmeyer@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Sally Wooster,sawooster@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Jace Higa,jkhiga@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,3:00,Mitch,QUAD,Serenna Thorsen,slthorsen@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,4:30,Mariah,QUAD,0,0,0,0,0,0
+2/16/2023,6:00,Indi,QUAD,Anika Dragan,0,CS 151,Python,Wordle,Y
+2/16/2023,6:00,Indi,QUAD,Carson Meyer,0,CS 151,Python,Wordle,Y
+2/16/2023,6:58,Kendall,QUAD,Rea Bazal,0,CS 151,Python,Wordle,Y
+2/16/2023,6:00,Indi/Thomas,QUAD,Taden Bowden,0,CS 151,Python,Wordle,
+2/16/2023,7:12,Elise/Chris,QUAD/CS,Catie Mohr,cdmohr@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,8:05,Kendall/Chris,QUAD/CS,Sally Wooster,0,CS 151,Python,Wordle,Y
+2/16/2023,7:45,Chris,CS,Taden Bowden,0,CS 151,Python,Wordle,Y
+2/16/2023,7:30,Thomas,QUAD,Mallory Tolliver,mrtolliver@willamette.edu,CS 151,Python,Wordle,Y
+2/16/2023,7:30,Thomas,QUAD,Connor Murphy,cjmurphy@willamette.edu,CS 151,Python,Wordle,Y
+2/19/2023,4:30,Juni,QUAD,0,0,0,0,0,0
+2/20/2023,6:00,Chloe,QUAD,0,0,0,0,0,0
+2/20/2023,8:45,Juni,QUAD,Hriday,0,CS 370,Python,Midterm study tips,Y
+2/22/2023,3:00,Thomas,QUAD,Milena Loper,mvloper@willamette.edu,MATH 251W,0,Homework 4,Y
+2/22/2023,7:00,Kendall,QUAD,Alicia Robbins,aerobbins@willamette.edu,CS-151,Python,PGL,Y
+2/22/2023,7:00,Indi,QUAD,Evyn Baker,0,DS-151,R,,Y
+2/22/2023,7:30,Olivia,CS,Rea Bazal,0,CS-151,Python,PGL,Y
+2/22/2023,7:30,Juni,QUAD,Ethan,0,CS-151,Python,PGL pyramid,Y
+2/22/2023,7:40,Olivia,CS,Anika Dragan,0,CS-151,Python,PGL,Y
+2/22/2023,7:30,Indi,QUAD,Evyn Baker,0,DATA 152,R,HW 4,Y
+2/22/2023,8:50,Juni,QUAD,Taden Bowden,0,MATH-253,Python,Steady-State vectors,Y
+2/23/2023,3:00,Mitch,QUAD,Brooke Proctor,blproctor@willamette.edu,CS 151,Python,HWK help,Y
+2/23/2023,4:30,Indi,QUAD,Emilia Keller,emkeller@willamette.edu,CS 151,Python,HWK help,Y
+2/23/2023,4:30,Indi,QUAD,Sally Wooster,sawooster@willamette.edu,CS 151,Python,HWK help,Y
+2/23/2023,4:30,Indi,QUAD,Jace Higa,jkhiga@willamette.edu,CS 151,Python,HWK help,Y
+2/23/2023,6:00,Elise,QUAD,0,0,0,0,0,0
+2/23/2023,7:30,Kendall,QUAD,0,0,0,0,0,0
+2/23/2023,7:30,Elise,QUAD,0,0,0,0,0,0
+2/23/2023,8:30,Kendall,QUAD,Alicia Robbins,,CS 151,Python,HW Help,Y
+2/23/2023,8:30,Chris,CS,Sally Wooster,0,CS 151,Python,HW Help,0
